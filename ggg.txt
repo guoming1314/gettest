@@ -1,0 +1,3 @@
+age = input('sadj')
+age=int(age)
+new_age=age+10
