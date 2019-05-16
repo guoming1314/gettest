@@ -1,3 +1,7 @@
 age = input('sadj')
 age=int(age)
 new_age=age+10
+print(age)
+»ÓÈ÷µÄ
+è¿˜æ˜¯å¤§å·
+hdsahdsahh
